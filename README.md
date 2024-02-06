@@ -9,8 +9,12 @@
 # Webcam-Display
 
 
+## How to Run:
 ```bash
 pip install -r requirements.txt
+```
+```bash
+python main.py
 ```
 
 To make the setup script executable, run the following command in your terminal:
