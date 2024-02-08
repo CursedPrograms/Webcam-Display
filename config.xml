@@ -1,6 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<RootElement>
-    <ChildElement>0</ChildElement>
-    <ChildElement>1</ChildElement>
-</RootElement>
-
+<WebCamDisplayConfig>
+    <AppName>Webcam Display</AppName>
+    <Description></Description>
+    <ProjectStructure>
+        <MainScript>main.py</MainScript>
+        <TransformerScript>scripts/install-dependencies.py</TransformerScript>
+    </ProjectStructure>
+    <Scripts></Scripts>
+</WebCamDisplayConfig>

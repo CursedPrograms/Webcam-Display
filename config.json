@@ -1,5 +1,13 @@
 {
-  "RootElement": {
-    "ChildElement": ["0", "1"]
+  "WebCamDisplayConfig": {
+    "AppName": "Webcam Display",
+    "Description": "",
+    "ProjectStructure": {
+      "MainScript": "main.py",
+      "TransformerScript": "scripts/install-dependencies.py"
+    },
+    "Scripts": {
+
+    }
   }
 }
