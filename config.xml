@@ -1,4 +1,4 @@
-<WebCamDisplayConfig>
+<Config>
     <AppName>Webcam Display</AppName>
     <Description></Description>
     <ProjectStructure>
@@ -6,4 +6,4 @@
         <TransformerScript>scripts/install-dependencies.py</TransformerScript>
     </ProjectStructure>
     <Scripts></Scripts>
-</WebCamDisplayConfig>
+</Config>
