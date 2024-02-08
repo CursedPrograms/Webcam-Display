@@ -2,7 +2,7 @@ import os
 import subprocess
 
 def main():
-    print("Python Project")
+    print("Webcam Display")
 
     scripts = {
         "1": {
