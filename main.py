@@ -14,19 +14,19 @@ def main():
 
     scripts = {
         "1": {
-            "name": "Run 'webcam-display-face-detect.py'",
+            "name": "Run 'webcam_display_face_detect.py'",
             "description": "Webcam display with face-detection",
-            "file_name": "scripts/webcam-display-face-detect.py"
+            "file_name": "scripts/webcam_display_face_detect.py"
         },
         "2": {
-            "name": "Run 'webcam-display-face.py",
+            "name": "Run 'webcam_display.py",
             "description": "Webcam display",
-            "file_name": "scripts/webcam-display-face.py"
+            "file_name": "scripts/webcam_display"
         },
         "00": {
-            "name": "Run 'Install Dependencies'",
+            "name": "Run 'install_dependencies.py'",
             "description": "Install dependencies",
-            "file_name": "scripts/install-dependencies.py"
+            "file_name": "scripts/install_dependencies.py"
         },
     }
 
