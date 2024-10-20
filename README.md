@@ -21,15 +21,24 @@
 
 
 ## How to Run:
+
+### Install Requirements
+
 ```bash
 pip install -r requirements.txt
 ```
 Or run install_requirements.bat
 
+  <br>
+
+### Run main.py
 
 ```bash
 python main.py
 ```
+Or run run.bat
+
+  <br>
 
 To make the setup script executable, run the following command in your terminal:
 
@@ -37,13 +46,18 @@ To make the setup script executable, run the following command in your terminal:
 chmod +x setup.sh
 ```
 
+  <br>
+
+## Requirements:
+
+```bash
 opencv-python==4.8.1.78
+```
 
 <br>
 <div align="center">
 Cursed Entertainment 2024
 </div>
-
  <br> 
 <div align="center">
 <a href="https://github.com/CursedPrograms" target="_blank">
