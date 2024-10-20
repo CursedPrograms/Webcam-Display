@@ -24,6 +24,9 @@
 ```bash
 pip install -r requirements.txt
 ```
+Or run install_requirements.bat
+
+
 ```bash
 python main.py
 ```
