@@ -19,34 +19,37 @@
 
 # Webcam-Display
 
-
 ## How to Run:
 
 ### Install Requirements
+
+Using Python directly:
 
 ```bash
 pip install -r requirements.txt
 ```
 Or run: 
 - `install_requirements.bat`
-
+  
   <br>
 
 ### Run main.py
 
+Using Python directly:
+
 ```bash
 python main.py
 ```
-Or run: 
-- `run.bat`
 
-  <br>
+Using provided scripts:
 
-To make the setup script executable, run the following command in your terminal:
+Windows:
+- `.\run.bat`
+or
+- `.\run.ps1`
 
-```bash
-chmod +x setup.sh
-```
+Unix-like systems (Linux/macOS):
+- `.\run.sh`
 
   <br>
 
