@@ -34,6 +34,8 @@ To make the setup script executable, run the following command in your terminal:
 chmod +x setup.sh
 ```
 
+opencv-python==4.8.1.78
+
 <br>
 <div align="center">
 Cursed Entertainment 2024
