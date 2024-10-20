@@ -27,7 +27,8 @@
 ```bash
 pip install -r requirements.txt
 ```
-Or run install_requirements.bat
+Or run: 
+- `install_requirements.bat`
 
   <br>
 
@@ -36,7 +37,8 @@ Or run install_requirements.bat
 ```bash
 python main.py
 ```
-Or run run.bat
+Or run: 
+- `run.bat`
 
   <br>
 
